@@ -54,15 +54,6 @@ Backend services for consuming, processing, validating and auditing external API
 
 Applications for management, reports, PDFs, financial workflows and internal operations.
 
----
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucaseuRodrigues&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaseuRodrigues&layout=compact&theme=tokyonight)
-
----
-
 ## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/lucaseurodrigues/)
