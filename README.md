@@ -55,16 +55,11 @@ Backend services for consuming, processing, validating and auditing external API
 Applications for management, reports, PDFs, financial workflows and internal operations.
 
 ---
-
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" alt="Lucas GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LucaseuRodrigues&amp;show_icons=true&amp;theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucaseuRodrigues&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaseuRodrigues&amp;layout=compact&amp;theme=tokyonight" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaseuRodrigues&layout=compact&theme=tokyonight)
 
 ---
 
