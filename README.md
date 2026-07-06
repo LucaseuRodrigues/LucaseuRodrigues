@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lucas Rodrigues
 
-I'm a developer focused on building systems, applicattions and automatization.
+I'm a developer focused on building systems, applications and automation solutions.
 
 
 ---
@@ -12,7 +12,7 @@ I'm a developer focused on building systems, applicattions and automatization.
 * 💬 Ask me about **React, Angular, Next.js, Node.js, Python, FastAPI and PostgreSQL/PostGIS**
 * 🤝 Open to collaborating on **web systems, automation tools, APIs and GIS projects**
 * 📫 Reach me at: **[lucaseurodriguesz@gmail.com](mailto:lucaseurodriguesz@gmail.com)**
-* ⚡ Fun fact: I like to develop indie games at my free time
+* ⚡ Fun fact: I like to develop indie games in my free time
 
 ---
 
@@ -59,13 +59,13 @@ Applications for management, reports, PDFs, financial workflows and internal ope
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucaseuRodrigues&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaseuRodrigues\&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](SEU_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github)](https://github.com/SEU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/lucaseurodrigues/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github)](https://github.com/LucaseuRodrigues)
