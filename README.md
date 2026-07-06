@@ -58,10 +58,13 @@ Applications for management, reports, PDFs, financial workflows and internal ope
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LucaseuRodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=86400" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaseuRodrigues&layout=compact&theme=tokyonight&cache_seconds=86400" />
-</div>
+<p align="center">
+  <img height="165" alt="Lucas GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LucaseuRodrigues&amp;show_icons=true&amp;theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaseuRodrigues&amp;layout=compact&amp;theme=tokyonight" />
+</p>
 
 ---
 
